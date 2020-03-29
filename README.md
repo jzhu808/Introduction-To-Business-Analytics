@@ -28,7 +28,7 @@ useful information and knowledge from data. We will improve our ability to appro
 
 
 ### Group Projects
-- [Project 1](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/Purchase%20intention%20project.pdf) - Find the relationship between weight and height of MBA students at Goizueta Business School, using RStudio and RapidMiner
+- [Project 1](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/Purchase%20intention%20project.pdf) - Use a variety of supervised algorithms, including regression tree, logistic regression and k-NN, to identify customers to apply discounts and increase revenue  
   > Tools Used: Python, Jupyter Notebook, RapidMiner  
   Jupyter Notebook File: [Final_Project.ipynb](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/Final_project.ipynb)  
   Data Used: [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
