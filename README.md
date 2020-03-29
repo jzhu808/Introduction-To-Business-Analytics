@@ -1,8 +1,7 @@
 <img src="https://github.com/jzhu808/images/blob/master/JZ.JPG" align="right" />
 
 # ISOM 672: Introduction to Business Analytics
-> In this class, we will study the fundamental principles and techniques of data mining in order to extract
-useful information and knowledge from data. We will improve our ability to approach problems "dataanalytically", we will examine real-world examples that place data mining in context, and we will apply datamining techniques while working hands-on with data mining projects. In particular, the course will provide an understanding of the general framework for building and evaluating predictive models, both for classification and numeric prediction data mining tasks. The course will cover supervised predictive modeling techniques, such as decision trees, k-nearest neighbors, naïve Bayes classifiers, and logistic regression as well as unsupervised predictive modeling techniques, such as clustering and association rule mining.
+> In this class, we will study the fundamental principles and techniques of data mining in order to extract useful information and knowledge from data. We will improve our ability to approach problems "dataanalytically", we will examine real-world examples that place data mining in context, and we will apply datamining techniques while working hands-on with data mining projects. In particular, the course will provide an understanding of the general framework for building and evaluating predictive models, both for classification and numeric prediction data mining tasks. The course will cover supervised predictive modeling techniques, such as decision trees, k-nearest neighbors, naïve Bayes classifiers, and logistic regression as well as unsupervised predictive modeling techniques, such as clustering and association rule mining.
 
 
 ### Individual Assignments
