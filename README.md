@@ -17,12 +17,13 @@ useful information and knowledge from data. We will improve our ability to appro
   Data Used: [wdbc.data](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/wdbc.data)
 
 - [Assignment 3](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW3.ipynb) - Standardization, nested cross-validation, decision tree, logistic regression, K-nearest neighbors, parameter tuning, learning curve, fitting graph and AUC evaluation
-  > Tools Used: Python, Jupyter Notebook, RapidMiner  
+  > Tools Used: Python, Jupyter Notebook
   Full PDF File: [HW3_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW3_PDF.pdf)   
   Data Used: [wdbc.data](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/wdbc.data)
   
-- [Assignment 4](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Final%20Quiz.pdf) - Descriptive statistics, histogram and regression model
-  > Tools Used: RStudio  
-  Data Used: [housedata.xlsx](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/housedata.xlsx)
+- [Assignment 4](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW4.ipynb) - Preliminary data analysis, cross validation, linear regression, lasso regression, ridge regression, regression tree, k-NN regression, feature engineering and parameter tuning (GridSearchCV)   
+  > Tools Used: Python, Jupyter Notebook
+  Full PDF File: [HW4_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW4_PDF.pdf)   
+  Data Used: HW4.xlsx
 
 
