@@ -7,14 +7,14 @@ useful information and knowledge from data. We will improve our ability to appro
 
 ### Individual Assignments
 - [Assignment 1](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW1.ipynb) - Machine learning concepts, decision tree and model evaluation
-  > Tools Used: Python, Jupyter Notebook, RapidMiner
-  Full PDF File: [HW1_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW1_PDF.pdf)
+  > Tools Used: Python, Jupyter Notebook, RapidMiner  
+  Full PDF File: [HW1_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW1_PDF.pdf)  
   Data Used: [HW1_Data.csv](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW1_Data.csv)
   
 - [Assignment 2](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW2.ipynb) - K-Nearest Neighbors, logistic regression, cross validation and learning curve evaluation
-  > Tools Used: Python, Jupyter Notebook, RapidMiner 
-  Full PDF File: [HW2_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW2_PDF.pdf)
-  Data Used: [housedata.xlsx](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/wdbc.data)
+  > Tools Used: Python, Jupyter Notebook, RapidMiner   
+  Full PDF File: [HW2_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW2_PDF.pdf)  
+  Data Used: [wdbc.data](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/wdbc.data)
 
 - [Assignment 3](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Individual%20Regression%20Problem.pdf) - Linear regression and confidence interval
   > Tools Used: RStudio  
