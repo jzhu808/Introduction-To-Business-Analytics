@@ -11,14 +11,15 @@ useful information and knowledge from data. We will improve our ability to appro
   Full PDF File: [HW1_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW1_PDF.pdf)  
   Data Used: [HW1_Data.csv](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW1_Data.csv)
   
-- [Assignment 2](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW2.ipynb) - K-Nearest Neighbors, logistic regression, cross validation and learning curve evaluation
+- [Assignment 2](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW2.ipynb) - K-nearest neighbors, logistic regression, cross validation and learning curve
   > Tools Used: Python, Jupyter Notebook, RapidMiner   
   Full PDF File: [HW2_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW2_PDF.pdf)  
   Data Used: [wdbc.data](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/wdbc.data)
 
-- [Assignment 3](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Individual%20Regression%20Problem.pdf) - Linear regression and confidence interval
-  > Tools Used: RStudio  
-  Data Used: [SeaWatch C data.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
+- [Assignment 3](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW3.ipynb) - Standardization, nested cross-validation, decision tree, logistic regression, K-nearest neighbors, parameter tuning, learning curve, fitting graph and AUC evaluation
+  > Tools Used: Python, Jupyter Notebook, RapidMiner  
+  Full PDF File: [HW3_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW3_PDF.pdf) 
+  Data Used: [wdbc.data](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/wdbc.data)
   
 - [Assignment 4](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Final%20Quiz.pdf) - Descriptive statistics, histogram and regression model
   > Tools Used: RStudio  
