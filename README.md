@@ -18,7 +18,7 @@ useful information and knowledge from data. We will improve our ability to appro
 
 - [Assignment 3](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW3.ipynb) - Standardization, nested cross-validation, decision tree, logistic regression, K-nearest neighbors, parameter tuning, learning curve, fitting graph and AUC evaluation
   > Tools Used: Python, Jupyter Notebook, RapidMiner  
-  Full PDF File: [HW3_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW3_PDF.pdf) 
+  Full PDF File: [HW3_PDF.pdf](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/HW3_PDF.pdf)   
   Data Used: [wdbc.data](https://github.com/jzhu808/ISOM-672-Introduction-To-Business-Analytics/blob/master/wdbc.data)
   
 - [Assignment 4](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Final%20Quiz.pdf) - Descriptive statistics, histogram and regression model
